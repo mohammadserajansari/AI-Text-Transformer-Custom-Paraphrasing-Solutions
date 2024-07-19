@@ -53,9 +53,6 @@ To set up the environment and install the required libraries, follow these steps
     - Enter your text into the provided input field.
     - The application will generate and display paraphrased versions of the input text.
 
-   Example:
-
-
 
 ## Project Structure
 
