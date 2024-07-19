@@ -1,4 +1,4 @@
-# Paraphrase Generator
+# AI-Text-Transformer-Custom-Paraphrasing-Solutions
 
 This repository contains a Python application for generating paraphrases using T5-base and GPT-2 models. The application provides a web interface for interacting with the models and generating paraphrased text.
 
