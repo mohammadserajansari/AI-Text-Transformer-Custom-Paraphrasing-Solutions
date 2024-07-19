@@ -1,0 +1,14 @@
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.0
+scikit-learn==1.4.2
+ipykernel==6.29.4
+tqdm==4.66.4
+notebook==7.2.0
+sentencepiece==0.2.0
+transformers==4.41.1
+torch==2.3.0
+nltk==3.8.1
+language-tool-python==2.8
+rouge==1.0.1
+streamlit==1.34.0
