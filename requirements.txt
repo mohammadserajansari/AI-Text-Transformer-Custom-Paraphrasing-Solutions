@@ -4,7 +4,7 @@ scipy==1.13.0
 scikit-learn==1.4.2
 ipykernel==6.29.4
 tqdm==4.66.4
-notebook==7.2.0
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 sentencepiece==0.2.0
 transformers==4.41.1
 torch==2.3.0
