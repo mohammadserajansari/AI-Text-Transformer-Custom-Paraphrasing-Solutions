@@ -54,3 +54,21 @@ To set up the environment and install the required libraries, follow these steps
     - The application will generate and display paraphrased versions of the input text.
 
    Example:
+
+
+
+## Project Structure
+
+- `app.py`: The main Streamlit application script.
+- `requirements.txt`: File listing all the Python dependencies for the project.
+
+## Troubleshooting
+
+- If you encounter issues with PyTorch installation, verify that you have the correct version of CUDA installed or consult the [PyTorch installation guide](https://pytorch.org/get-started/locally/).
+- Ensure all dependencies listed in `requirements.txt` are installed correctly.
+
+
+
+## Contact
+
+For questions or issues, please contact [Mohammad Seraj](mailto:mail.serajansari@gmail.com).
